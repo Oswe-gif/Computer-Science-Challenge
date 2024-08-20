@@ -8,6 +8,8 @@ The script aims to solve the problem called [283. Move Zeroes](https://leetcode.
 The script aims to solve the problem called [2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/).
 * Time complexity is O(n) because we have a loop that iterates through the levels of the binary tree once (the biggest iteration).
 ![image](https://github.com/user-attachments/assets/abcbee44-8fae-4b03-8bbc-3455ab3446c5)
+*
+* Note. On line 30 of the file, ignore this complexity, since it was only used to make it easier for the evaluator to view the graphs. ```print({i: [node.val for node in k] for i, k in levels.items()})```
 
 # Critical Connections in a Network:
 The script aims to solve the problem called [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/).
