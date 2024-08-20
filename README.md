@@ -14,6 +14,7 @@ The script aims to solve the problem called [2415. Reverse Odd Levels of Binary 
 # Critical Connections in a Network:
 The script aims to solve the problem called [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/).
 * Time complexity is O(V + E) where V is the number of vertices and E is the number of edges (we visit each vertex and edge once).
+* Space complexity is O(n+E) where n is nodes and E is edges
 ![image](https://github.com/user-attachments/assets/141e0d38-b379-4f50-9c3c-7256ae763186)
 
 # Partition Array Into Two Arrays to Minimize Sum Difference:
