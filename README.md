@@ -8,5 +8,7 @@ El script tiene como objetivo solucionar el problema denominado [2415. Reverse O
 * 
 # Critical Connections in a Network:
 El script tiene como objetivo solucionar el problema denominado [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/).
+* Time complexity is O(V + E) where V is the number of vertices and E is the number of edges (we visit each vertex and edge once).
+* 
 # Partition Array Into Two Arrays to Minimize Sum Difference:
 El script tiene como objetivo solucionar el problema denominado [2035. Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/).
