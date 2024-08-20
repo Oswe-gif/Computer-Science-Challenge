@@ -1,5 +1,7 @@
 # Move zeroes:
 El script tiene como objetivo solucionar el problema denominado [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/).
+* Time complexity is O(n) because iterates through the 'nums' list once.
+* 
 # Reverse Odd Levels of Binary Tree:
 El script tiene como objetivo solucionar el problema denominado [2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/).
 # Critical Connections in a Network:
