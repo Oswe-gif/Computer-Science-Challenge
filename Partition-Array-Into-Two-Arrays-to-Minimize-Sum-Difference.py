@@ -10,7 +10,7 @@ class Solution:
         right = nums[n:]
         leftDictionary ={0:[0]}
         rightDictionary ={0:[0]}
-        minimumSum= 10**10
+        minimumSum= 10**10*15
         if minimumSum == 0:
             return 0
         for i in range(1, n+1):
