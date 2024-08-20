@@ -1,7 +1,7 @@
 # Move zeroes:
 The script aims to solve the problem called [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/).
 * Time complexity is O(n) because iterates through the 'nums' list once.
-* 
+* Space complexity is O(1)
 # Reverse Odd Levels of Binary Tree:
 The script aims to solve the problem called [2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/).
 * Time complexity is O(n) because we have a loop that iterates through the levels of the binary tree once (the biggest iteration).
